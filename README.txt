@@ -9,6 +9,8 @@ by the side it is VERY esey to corrupt your files or maybe your whole system usi
 
 TUTORIAL:
 
+(see files in newest release)
+
 
 LINUX:
 
