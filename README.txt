@@ -7,7 +7,22 @@ have fun :)
 (btw VirusTotal tells you its a virus but thats a error you can look at the source code it is NOT a virus)
 by the side it is VERY esey to corrupt your files or maybe your whole system using this i will not take any Liability for any damage see LICENCE.txt
 
-on linux you may need to run this command in the folder where you downloaded hkga: chmod +x hkga
-on windows it should run out of the box
+TUTORIAL:
 
-you need to open the file you want to encrypt with the hkga executeable otherwise it wont work as expected.
+
+LINUX:
+
+on linux youll need to download the file that is just hkga.
+now use cd to go to the folder where the file is located.
+run the command: chmod +x hkga
+now make a file with the extention .hkga
+then open it with the application .hkga
+now open it close it now there will be another windows where you put your password now open it again pu your password there and now youll see the text editor.
+
+
+
+WINDOWS:
+
+on windows youll need to downlaod the .exe after that make a file with the ending .hkga
+right click the file and select properties now youll see where  you can make it as the deafault opeing set the deafault app to open as to the file you downloaded.
+now open it close it now there will be another windows where you put your password now open it again put your password there and now youll see the text editor.
