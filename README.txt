@@ -16,6 +16,7 @@ on linux youll need to download the file that is just hkga.
 now use cd to go to the folder where the file is located.
 run the command: chmod +x hkga
 now make a file with the extention .hkga
+right click it (sorry if you have arch i only use UI) and select the file you downloaded and press add to list.
 then open it with the application .hkga
 now open it close it now there will be another windows where you put your password now open it again pu your password there and now youll see the text editor.
 
