@@ -2,7 +2,7 @@ HKGA is a bad file encryptor.
 heres proof:
 - i stole the libraries of other aka AES to make my project.
 - its written in python (becouse im bad)
-- its around 50% AI becouse i cant code
+- its around 51% AI becouse i cant code
 - VirusTotal tells you its a virus but thats a error you can look at the source code it is NOT a virus
 - it is VERY easy to corrupt your files or maybe your whole system using my tool i will not take any Liability, see LICENCE.txt
 - and only UTF-8 encoded files will work
